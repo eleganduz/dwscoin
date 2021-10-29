@@ -1,0 +1,9 @@
+Building Dwscoin
+
+See doc/readme-qt.rst for instructions on building Dwscoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Dwscoin.
+
+See doc/build-*.txt for instructions on building dwscoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Dwscoin.
