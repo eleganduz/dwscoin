@@ -1,10 +1,10 @@
 Dwscoin integration/staging tree
 ================================
 
-http://www.dwscoin.org
+https://www.dwscoin.uz
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Dwscoin Developers
+Copyright (c) 2021-2021 Dwscoin Developers
 
 What is Dwscoin?
 ----------------
@@ -16,10 +16,10 @@ Dwscoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
 
 The rest is the same as Bitcoin.
  - 50 coins per block
- - 2016 blocks to retarget difficulty
+ - 2021 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Dwscoin client sofware, see http://www.dwscoin.org.
+the Dwscoin client sofware, see http://www.dwscoin.uz.
 
 License
 -------
